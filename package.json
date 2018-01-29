@@ -6,6 +6,12 @@
   "scripts": {
     "test": "ava -v"
   },
+  "files": [
+    "index.js",
+    "desktop.js",
+    "electron.js",
+    "mobile.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oneteam-dev/browserslist-config-google.git"
