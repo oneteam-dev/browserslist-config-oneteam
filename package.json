@@ -1,0 +1,23 @@
+{
+  "name": "browserslist-config-oneteam",
+  "version": "1.0.0",
+  "description": "Oneteam Browserslist Shared Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneteam-dev/browserslist-config-google.git"
+  },
+  "author": "Oneteam Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oneteam-dev/browserslist-config-google/issues"
+  },
+  "homepage": "https://github.com/oneteam-dev/browserslist-config-google#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "browserslist": "^2.11.3"
+  }
+}
