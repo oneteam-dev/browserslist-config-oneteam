@@ -4,7 +4,8 @@
   "description": "Oneteam Browserslist Shared Config",
   "main": "index.js",
   "scripts": {
-    "test": "ava -v"
+    "test": "ava -v",
+    "prepublishOnly": "npm test"
   },
   "files": [
     "index.js",
